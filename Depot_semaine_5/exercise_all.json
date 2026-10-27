@@ -1,0 +1,1826 @@
+{
+  "dataPoints": [
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/2005160277039343912",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-12T13:55:05Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-12T14:06:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "distanceMillimeters": 872410,
+          "averagePaceSecondsPerMeter": 0.7507937781547667
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "655s",
+        "updateTime": "2026-10-12T14:18:52.615523Z",
+        "createTime": "2026-10-12T14:18:52.615523Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/1276358897985227352",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-11T15:32:20Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-11T15:46:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "OUTDOOR_BIKE",
+        "metricsSummary": {
+          "caloriesKcal": 75,
+          "averageHeartRateBeatsPerMinute": "111",
+          "activeZoneMinutes": "9",
+          "heartRateZoneDurations": {
+            "lightTime": "300s",
+            "moderateTime": "480s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Vélo d'extérieur",
+        "activeDuration": "820s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-11T15:32:20Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-11T15:46:00Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-11T15:53:13.481458Z",
+        "createTime": "2026-10-11T15:53:13.481458Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/8883047261686620320",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-11T12:12:24Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-11T15:06:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "caloriesKcal": 1783,
+          "distanceMillimeters": 10110016,
+          "steps": "13390",
+          "averageHeartRateBeatsPerMinute": "155",
+          "activeZoneMinutes": "287",
+          "heartRateZoneDurations": {
+            "lightTime": "660s",
+            "moderateTime": "2100s",
+            "vigorousTime": "4560s",
+            "peakTime": "3060s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "10414s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-11T12:12:24Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-11T15:05:58Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-10-11T15:06:00Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-11T15:07:51.841120Z",
+        "createTime": "2026-10-11T12:22:01.070702Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/6615724449059812336",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-10T17:20:00Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-10T18:10:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "STRENGTH_TRAINING",
+        "metricsSummary": {
+          "caloriesKcal": 226,
+          "averageHeartRateBeatsPerMinute": "86",
+          "heartRateZoneDurations": {
+            "lightTime": "3000s",
+            "moderateTime": "0s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement en force",
+        "activeDuration": "3000s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-10T17:38:13Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-10T18:08:07Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-10-10T18:08:08Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-10T18:10:30.547783Z",
+        "createTime": "2026-10-10T17:39:58.523763Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/4666564397251444144",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-09T16:15:00Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-09T16:33:47Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "caloriesKcal": 130,
+          "distanceMillimeters": 1054900,
+          "steps": "1583",
+          "averagePaceSecondsPerMeter": 1.0683477106834771,
+          "averageHeartRateBeatsPerMinute": "99",
+          "activeZoneMinutes": "2",
+          "heartRateZoneDurations": {
+            "lightTime": "1020s",
+            "moderateTime": "120s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "1127s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-09T16:15:00Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-09T16:33:47Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-09T16:44:55.349381Z",
+        "createTime": "2026-10-09T16:44:55.349381Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/5468368031194123024",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-09T11:22:00Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-09T11:35:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "distanceMillimeters": 945930,
+          "averagePaceSecondsPerMeter": 0.8245853287241128
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "780s",
+        "updateTime": "2026-10-09T11:53:11.202096Z",
+        "createTime": "2026-10-09T11:53:11.202096Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/8556852700942620608",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-09T10:43:00Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-09T10:54:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "distanceMillimeters": 802650,
+          "averagePaceSecondsPerMeter": 0.8222762100541955
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "660s",
+        "updateTime": "2026-10-09T11:22:53.614772Z",
+        "createTime": "2026-10-09T11:22:53.614772Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/9074411240708782488",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-08T17:33:59Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-08T17:50:12Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "caloriesKcal": 115,
+          "distanceMillimeters": 1079100,
+          "steps": "1539",
+          "averagePaceSecondsPerMeter": 0.9016773236956724,
+          "averageHeartRateBeatsPerMinute": "96",
+          "heartRateZoneDurations": {
+            "lightTime": "1020s",
+            "moderateTime": "0s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "973s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-08T17:33:59Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-08T17:50:12Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-08T18:07:19.041683Z",
+        "createTime": "2026-10-08T18:07:19.041683Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/2079426402950114600",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-08T14:37:37Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-08T15:17:37Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WORKOUT",
+        "metricsSummary": {
+          "caloriesKcal": 258,
+          "averageHeartRateBeatsPerMinute": "97",
+          "activeZoneMinutes": "7",
+          "heartRateZoneDurations": {
+            "lightTime": "1980s",
+            "moderateTime": "420s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement",
+        "activeDuration": "2400s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-08T14:37:37Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-08T17:06:37Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-10-08T17:06:38Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-09T10:56:55.212847Z",
+        "createTime": "2026-10-08T14:38:45.699962Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/3452873307219189896",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-08T10:01:00Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-08T10:12:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "distanceMillimeters": 821010,
+          "averagePaceSecondsPerMeter": 0.8038878941791209
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "660s",
+        "updateTime": "2026-10-08T10:26:53.028774Z",
+        "createTime": "2026-10-08T10:26:53.028774Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/2982778178899302816",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-07T18:35:00Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-07T19:15:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "caloriesKcal": 143,
+          "distanceMillimeters": 2530400,
+          "steps": "3581",
+          "averagePaceSecondsPerMeter": 0.94846664558963,
+          "averageHeartRateBeatsPerMinute": "96",
+          "activeZoneMinutes": "3",
+          "heartRateZoneDurations": {
+            "lightTime": "2280s",
+            "moderateTime": "60s",
+            "vigorousTime": "60s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "2400s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-07T18:52:55Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-07T19:13:20Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-07T19:22:18.568425Z",
+        "createTime": "2026-10-07T19:17:41.166185Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/9156630050105948896",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-07T17:33:15Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-07T18:28:16Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "caloriesKcal": 471,
+          "distanceMillimeters": 2483281,
+          "steps": "3274",
+          "averageHeartRateBeatsPerMinute": "134",
+          "activeZoneMinutes": "68",
+          "heartRateZoneDurations": {
+            "lightTime": "780s",
+            "moderateTime": "1020s",
+            "vigorousTime": "1500s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "3300s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-07T17:33:15Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-07T18:28:15Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-10-07T18:28:16Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-07T18:28:25.127053Z",
+        "createTime": "2026-10-07T18:24:25.117394Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/5427757904789176120",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-06T18:11:54Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-06T18:11:57Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "averageHeartRateBeatsPerMinute": "92"
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "2s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-06T18:11:54Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-06T18:11:56Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-10-06T18:11:57Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-06T18:27:06.715083Z",
+        "createTime": "2026-10-06T18:27:06.715083Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/7020107382932768280",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-06T16:13:54Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-06T17:26:30Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "caloriesKcal": 750,
+          "distanceMillimeters": 4262954,
+          "steps": "5985",
+          "averageHeartRateBeatsPerMinute": "144",
+          "activeZoneMinutes": "105",
+          "heartRateZoneDurations": {
+            "lightTime": "1020s",
+            "moderateTime": "300s",
+            "vigorousTime": "2100s",
+            "peakTime": "960s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "4354s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-06T16:13:54Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-06T17:26:28Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-10-06T17:26:30Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-06T17:26:39.069964Z",
+        "createTime": "2026-10-06T16:20:17.735987Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/3208670409883103560",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-05T19:39:03Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-05T20:24:25Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "STRENGTH_TRAINING",
+        "metricsSummary": {
+          "caloriesKcal": 273,
+          "averageHeartRateBeatsPerMinute": "106",
+          "activeZoneMinutes": "12",
+          "heartRateZoneDurations": {
+            "lightTime": "1920s",
+            "moderateTime": "780s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement en force",
+        "activeDuration": "2721s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-05T19:39:03Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-05T20:24:24Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-10-05T20:24:25Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-05T20:24:33.340892Z",
+        "createTime": "2026-10-05T19:53:11.080632Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/3937666392702221920",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-04T12:24:15Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-04T15:04:27Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "caloriesKcal": 1659,
+          "distanceMillimeters": 8628672,
+          "steps": "11957",
+          "averageHeartRateBeatsPerMinute": "150",
+          "activeZoneMinutes": "247",
+          "heartRateZoneDurations": {
+            "lightTime": "720s",
+            "moderateTime": "2880s",
+            "vigorousTime": "3720s",
+            "peakTime": "2280s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "9611s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-04T12:24:15Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-04T15:04:26Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-10-04T15:04:27Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-04T15:04:37.060244Z",
+        "createTime": "2026-10-04T12:51:03.767094Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/2993075859856588032",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-04T11:06:35Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-04T11:25:21Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "caloriesKcal": 137,
+          "distanceMillimeters": 1254400,
+          "steps": "1792",
+          "averagePaceSecondsPerMeter": 0.8976403061224489,
+          "averageHeartRateBeatsPerMinute": "110",
+          "activeZoneMinutes": "8",
+          "heartRateZoneDurations": {
+            "lightTime": "780s",
+            "moderateTime": "360s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "1126s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-04T11:06:35Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-04T11:25:21Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-04T11:37:28.411173Z",
+        "createTime": "2026-10-04T11:37:28.411173Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/1171214757649244560",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-04T09:40:00Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-04T09:51:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "distanceMillimeters": 893220,
+          "averagePaceSecondsPerMeter": 0.7388997111573856
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "660s",
+        "updateTime": "2026-10-04T09:54:26.976438Z",
+        "createTime": "2026-10-04T09:54:26.976438Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/8029457859788184920",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-02T17:32:59Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-02T19:14:08Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "FOOTBALL_AMERICAN",
+        "metricsSummary": {
+          "distanceMillimeters": 5999000
+        },
+        "exerciseMetadata": {},
+        "displayName": "Football américain",
+        "activeDuration": "6069s",
+        "updateTime": "2026-10-07T12:52:05.846854Z",
+        "createTime": "2026-10-07T12:52:05.846854Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/3541816224748717256",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-02T17:30:34Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-02T19:12:29Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "caloriesKcal": 961,
+          "distanceMillimeters": 6331055,
+          "steps": "8504",
+          "averageHeartRateBeatsPerMinute": "148",
+          "activeZoneMinutes": "155",
+          "heartRateZoneDurations": {
+            "lightTime": "480s",
+            "moderateTime": "1920s",
+            "vigorousTime": "2700s",
+            "peakTime": "1020s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "6113s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-02T17:30:34Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-02T19:12:27Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-10-02T19:12:29Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-02T19:14:46.555251Z",
+        "createTime": "2026-10-02T19:14:46.555251Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/6534071250534744712",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-01T19:02:20Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-01T20:27:03Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "STRENGTH_TRAINING",
+        "metricsSummary": {
+          "caloriesKcal": 575,
+          "averageHeartRateBeatsPerMinute": "109",
+          "activeZoneMinutes": "36",
+          "heartRateZoneDurations": {
+            "lightTime": "2940s",
+            "moderateTime": "2160s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement en force",
+        "activeDuration": "5081s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-01T19:02:20Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-01T20:27:01Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-10-01T20:27:03Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-01T20:27:21.368990Z",
+        "createTime": "2026-10-01T19:05:04.579289Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/7424022324547387296",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-10-01T08:30:02Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-10-01T08:46:15Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "caloriesKcal": 103,
+          "distanceMillimeters": 818600,
+          "steps": "1173",
+          "averagePaceSecondsPerMeter": 1.1886147080381138,
+          "averageHeartRateBeatsPerMinute": "91",
+          "heartRateZoneDurations": {
+            "lightTime": "960s",
+            "moderateTime": "0s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "973s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-10-01T08:30:02Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-10-01T08:46:15Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-10-01T08:59:49.299555Z",
+        "createTime": "2026-10-01T08:59:49.299555Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/3628834211012013960",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-30T11:44:00Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-30T11:55:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "distanceMillimeters": 845950,
+          "averagePaceSecondsPerMeter": 0.7801879543708257
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "660s",
+        "updateTime": "2026-09-30T12:39:01.515056Z",
+        "createTime": "2026-09-30T12:39:01.515056Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/4523054842480487960",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-29T16:23:44Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-29T17:33:03Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "caloriesKcal": 597,
+          "distanceMillimeters": 2154868,
+          "steps": "3243",
+          "averageHeartRateBeatsPerMinute": "136",
+          "activeZoneMinutes": "85",
+          "heartRateZoneDurations": {
+            "lightTime": "960s",
+            "moderateTime": "1320s",
+            "vigorousTime": "1260s",
+            "peakTime": "660s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "4158s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-29T16:23:44Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-29T17:33:02Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-29T17:33:03Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-29T17:33:11.657944Z",
+        "createTime": "2026-09-29T16:28:38.191683Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/3085834816565737016",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-27T12:31:44Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-27T15:21:39Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "FOOTBALL_AMERICAN",
+        "metricsSummary": {
+          "distanceMillimeters": 7958900
+        },
+        "exerciseMetadata": {},
+        "displayName": "Football américain",
+        "activeDuration": "10195s",
+        "updateTime": "2026-10-07T12:52:05.655735Z",
+        "createTime": "2026-10-07T12:52:05.655735Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/4441942077060812216",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-25T19:15:25Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-25T19:25:39Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "OUTDOOR_BIKE",
+        "metricsSummary": {
+          "caloriesKcal": 76,
+          "averageHeartRateBeatsPerMinute": "121",
+          "activeZoneMinutes": "9",
+          "heartRateZoneDurations": {
+            "lightTime": "0s",
+            "moderateTime": "600s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Vélo d'extérieur",
+        "activeDuration": "614s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-25T19:15:25Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-25T19:25:39Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-25T19:34:37.528177Z",
+        "createTime": "2026-09-25T19:34:37.528177Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/908455761568098616",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-25T10:59:01Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-25T11:58:58Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WEIGHTLIFTING",
+        "metricsSummary": {},
+        "exerciseMetadata": {},
+        "displayName": "Haltérophilie",
+        "activeDuration": "3597s",
+        "updateTime": "2026-10-07T12:52:05.205404Z",
+        "createTime": "2026-10-07T12:52:05.205404Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/8560106739428710608",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-25T10:59:00Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-25T11:59:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WORKOUT",
+        "metricsSummary": {
+          "caloriesKcal": 83,
+          "averageHeartRateBeatsPerMinute": "59",
+          "heartRateZoneDurations": {
+            "lightTime": "3600s",
+            "moderateTime": "0s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement",
+        "activeDuration": "3600s",
+        "notes": "Séance de kiné dos - Objectif: Réaliser 1 séance de kiné dos",
+        "updateTime": "2026-09-25T11:59:50.163661Z",
+        "createTime": "2026-09-25T11:59:50.163661Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/5586793261217281224",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-25T08:38:13Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-25T09:43:13Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "STRENGTH_TRAINING",
+        "metricsSummary": {
+          "caloriesKcal": 378,
+          "averageHeartRateBeatsPerMinute": "96",
+          "activeZoneMinutes": "12",
+          "heartRateZoneDurations": {
+            "lightTime": "3180s",
+            "moderateTime": "720s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement en force",
+        "activeDuration": "3900s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-25T08:38:13Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-25T10:44:12Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-25T10:44:13Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-25T11:58:21.527289Z",
+        "createTime": "2026-09-25T08:40:31.642056Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/5177332773338929952",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-25T06:51:04Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-25T06:51:52Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "STRENGTH_TRAINING",
+        "metricsSummary": {
+          "averageHeartRateBeatsPerMinute": "114"
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement en force",
+        "activeDuration": "46s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-25T06:51:04Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-25T06:51:50Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-25T06:51:52Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-25T06:54:44.644587Z",
+        "createTime": "2026-09-25T06:54:44.644587Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/2714006120135449936",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-25T06:50:22Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-25T06:50:44Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "STRENGTH_TRAINING",
+        "metricsSummary": {
+          "averageHeartRateBeatsPerMinute": "83"
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement en force",
+        "activeDuration": "3s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-25T06:50:22Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-25T06:50:25Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "RESUME"
+          },
+          {
+            "eventTime": "2026-09-25T06:50:25Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-25T06:50:42Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-25T06:50:44Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-25T06:54:45.820922Z",
+        "createTime": "2026-09-25T06:54:45.820922Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/5232276873469787568",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-25T06:50:11Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-25T06:50:14Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "STRENGTH_TRAINING",
+        "metricsSummary": {
+          "averageHeartRateBeatsPerMinute": "78"
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement en force",
+        "activeDuration": "2s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-25T06:50:11Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-25T06:50:13Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-25T06:50:14Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-25T06:54:45.652483Z",
+        "createTime": "2026-09-25T06:54:45.652483Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/9049265542983371368",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-24T22:36:47Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-24T22:42:59Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "STRENGTH_TRAINING",
+        "metricsSummary": {
+          "caloriesKcal": 18,
+          "averageHeartRateBeatsPerMinute": "91",
+          "heartRateZoneDurations": {
+            "lightTime": "300s",
+            "moderateTime": "60s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement en force",
+        "activeDuration": "370s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-24T22:36:47Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-24T22:42:57Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-24T22:42:59Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-24T22:43:04.551140Z",
+        "createTime": "2026-09-24T22:39:21.658795Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/7743324462937944776",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-24T20:30:55Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-24T20:49:41Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "caloriesKcal": 133,
+          "distanceMillimeters": 1219600,
+          "steps": "1742",
+          "averagePaceSecondsPerMeter": 0.9232535257461464,
+          "averageHeartRateBeatsPerMinute": "94",
+          "heartRateZoneDurations": {
+            "lightTime": "1140s",
+            "moderateTime": "0s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "1126s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-24T20:30:55Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-24T20:49:41Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-24T21:00:39.073815Z",
+        "createTime": "2026-09-24T21:00:39.073815Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/3368118449467191424",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-24T19:18:38Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-24T20:30:10Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WEIGHTLIFTING",
+        "metricsSummary": {},
+        "exerciseMetadata": {},
+        "displayName": "Haltérophilie",
+        "activeDuration": "4292s",
+        "updateTime": "2026-10-07T12:52:05.173062Z",
+        "createTime": "2026-10-07T12:52:05.173062Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/5209394759848765376",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-23T06:45:00Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-23T06:56:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "distanceMillimeters": 867250,
+          "averagePaceSecondsPerMeter": 0.7610262323436149
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "660s",
+        "updateTime": "2026-09-23T07:32:53.012051Z",
+        "createTime": "2026-09-23T07:32:53.012051Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/2238785944325801488",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-22T16:04:28Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-22T17:27:39Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "caloriesKcal": 682,
+          "distanceMillimeters": 3343226,
+          "steps": "4739",
+          "averageHeartRateBeatsPerMinute": "128",
+          "activeZoneMinutes": "85",
+          "heartRateZoneDurations": {
+            "lightTime": "1560s",
+            "moderateTime": "1560s",
+            "vigorousTime": "840s",
+            "peakTime": "1020s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "4989s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-22T16:04:28Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-22T17:27:37Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-22T17:27:39Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-22T17:27:50.901661Z",
+        "createTime": "2026-09-22T16:09:09.926632Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/7192435873562313072",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-22T13:52:21Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-22T14:10:16Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "caloriesKcal": 114,
+          "distanceMillimeters": 893000,
+          "steps": "1291",
+          "averagePaceSecondsPerMeter": 1.2038073908174691,
+          "averageHeartRateBeatsPerMinute": "83",
+          "heartRateZoneDurations": {
+            "lightTime": "1080s",
+            "moderateTime": "0s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "1075s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-22T13:52:21Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-22T14:10:16Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-22T14:38:13.852343Z",
+        "createTime": "2026-09-22T14:38:13.852343Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/5969553501580102496",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-22T11:31:03Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-22T11:42:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "distanceMillimeters": 852410,
+          "averagePaceSecondsPerMeter": 0.7707558569233116
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "657s",
+        "updateTime": "2026-09-22T11:57:26.304675Z",
+        "createTime": "2026-09-22T11:57:26.304675Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/1395364740682151240",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-21T16:02:29Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-21T16:38:21Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "distanceMillimeters": 1673000,
+          "averagePaceSecondsPerMeter": 1.2863120143454871
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "2152s",
+        "updateTime": "2026-09-22T20:31:50.339610Z",
+        "createTime": "2026-09-22T20:31:50.339610Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/8606807867054026568",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-21T16:02:29Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-21T16:38:22Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "caloriesKcal": 202,
+          "distanceMillimeters": 1673000,
+          "steps": "2381",
+          "averagePaceSecondsPerMeter": 1.2869097429766885,
+          "averageHeartRateBeatsPerMinute": "88",
+          "heartRateZoneDurations": {
+            "lightTime": "2160s",
+            "moderateTime": "0s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "2153s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-21T16:02:29Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-21T16:38:22Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-21T16:46:39.819427Z",
+        "createTime": "2026-09-21T16:46:39.819427Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/6198735234878544904",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-21T10:30:33Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-21T10:46:46Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "caloriesKcal": 113,
+          "distanceMillimeters": 937200,
+          "steps": "1338",
+          "averagePaceSecondsPerMeter": 1.0381988903115664,
+          "averageHeartRateBeatsPerMinute": "95",
+          "heartRateZoneDurations": {
+            "lightTime": "960s",
+            "moderateTime": "0s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "973s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-21T10:30:33Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-21T10:46:46Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-21T10:53:51.536889Z",
+        "createTime": "2026-09-21T10:53:51.536889Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/9209506559936909320",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-20T12:27:20Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-20T15:03:37Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "caloriesKcal": 1919,
+          "distanceMillimeters": 10235156,
+          "steps": "12971",
+          "averageHeartRateBeatsPerMinute": "157",
+          "activeZoneMinutes": "266",
+          "heartRateZoneDurations": {
+            "lightTime": "0s",
+            "moderateTime": "2640s",
+            "vigorousTime": "3780s",
+            "peakTime": "2940s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "9376s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-20T12:27:20Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-20T15:03:36Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-20T15:03:37Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-20T15:04:58.682145Z",
+        "createTime": "2026-09-20T12:51:52.212082Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/8851978084212310168",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-20T12:27:08Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-20T12:27:15Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "STRENGTH_TRAINING",
+        "metricsSummary": {
+          "averageHeartRateBeatsPerMinute": "97"
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement en force",
+        "activeDuration": "6s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-20T12:27:08Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-20T12:27:14Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-20T12:27:15Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-20T12:27:21.996376Z",
+        "createTime": "2026-09-20T12:27:21.996376Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/4426472970064784744",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-20T11:39:17Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-20T11:52:54Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "OUTDOOR_BIKE",
+        "metricsSummary": {
+          "caloriesKcal": 90,
+          "averageHeartRateBeatsPerMinute": "108",
+          "activeZoneMinutes": "5",
+          "heartRateZoneDurations": {
+            "lightTime": "420s",
+            "moderateTime": "360s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Vélo d'extérieur",
+        "activeDuration": "817s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-20T11:39:17Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-20T11:52:54Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-20T12:07:23.520380Z",
+        "createTime": "2026-09-20T12:07:23.520380Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/7484538393473360984",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-19T20:31:18Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-19T20:44:07Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "OUTDOOR_BIKE",
+        "metricsSummary": {
+          "caloriesKcal": 88,
+          "averageHeartRateBeatsPerMinute": "92",
+          "heartRateZoneDurations": {
+            "lightTime": "780s",
+            "moderateTime": "0s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Vélo d'extérieur",
+        "activeDuration": "769s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-19T20:31:18Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-19T20:44:07Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-19T20:50:24.305128Z",
+        "createTime": "2026-09-19T20:50:24.305128Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/4566125734453012472",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-19T19:28:17Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-19T20:20:54Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "STRENGTH_TRAINING",
+        "metricsSummary": {
+          "caloriesKcal": 259,
+          "averageHeartRateBeatsPerMinute": "89",
+          "activeZoneMinutes": "2",
+          "heartRateZoneDurations": {
+            "lightTime": "3000s",
+            "moderateTime": "120s",
+            "vigorousTime": "0s",
+            "peakTime": "0s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Entraînement en force",
+        "activeDuration": "3154s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-19T19:28:17Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-19T20:20:51Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-19T20:20:54Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-19T20:23:50.222398Z",
+        "createTime": "2026-09-19T19:43:11.951175Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/7435801701486852304",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-19T19:27:52Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-19T19:27:57Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "averageHeartRateBeatsPerMinute": "78"
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "3s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-19T19:27:52Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-19T19:27:55Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-19T19:27:57Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-19T19:28:05.308519Z",
+        "createTime": "2026-09-19T19:28:05.308519Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/3075703991320621304",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-18T17:13:53Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-18T19:05:32Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "SPORT",
+        "metricsSummary": {
+          "caloriesKcal": 898,
+          "distanceMillimeters": 7001633,
+          "steps": "8435",
+          "averageHeartRateBeatsPerMinute": "136",
+          "activeZoneMinutes": "121",
+          "heartRateZoneDurations": {
+            "lightTime": "1980s",
+            "moderateTime": "1440s",
+            "vigorousTime": "1380s",
+            "peakTime": "1860s"
+          }
+        },
+        "exerciseMetadata": {},
+        "displayName": "Sport",
+        "activeDuration": "6696s",
+        "exerciseEvents": [
+          {
+            "eventTime": "2026-09-18T17:13:53Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "START"
+          },
+          {
+            "eventTime": "2026-09-18T19:05:29Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "PAUSE"
+          },
+          {
+            "eventTime": "2026-09-18T19:05:32Z",
+            "eventUtcOffset": "7200s",
+            "exerciseEventType": "STOP"
+          }
+        ],
+        "updateTime": "2026-09-18T19:05:41.443833Z",
+        "createTime": "2026-09-18T19:04:11.909862Z"
+      }
+    },
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/4822878828000980952",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-16T11:43:04Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-16T11:54:00Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "WALKING",
+        "metricsSummary": {
+          "distanceMillimeters": 853710,
+          "averagePaceSecondsPerMeter": 0.768410818662075
+        },
+        "exerciseMetadata": {},
+        "displayName": "Marche",
+        "activeDuration": "656s",
+        "updateTime": "2026-09-16T13:11:05.176848Z",
+        "createTime": "2026-09-16T13:11:05.176848Z"
+      }
+    }
+  ]
+}

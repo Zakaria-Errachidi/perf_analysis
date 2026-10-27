@@ -1,0 +1,24 @@
+{
+  "dataPoints": [
+    {
+      "dataPointName": "users/345797227699756920/dataTypes/exercise/dataPoints/3085834816565737016",
+      "exercise": {
+        "interval": {
+          "startTime": "2026-09-27T12:31:44Z",
+          "startUtcOffset": "7200s",
+          "endTime": "2026-09-27T15:21:39Z",
+          "endUtcOffset": "7200s"
+        },
+        "exerciseType": "FOOTBALL_AMERICAN",
+        "metricsSummary": {
+          "distanceMillimeters": 7958900
+        },
+        "exerciseMetadata": {},
+        "displayName": "Football américain",
+        "activeDuration": "10195s",
+        "updateTime": "2026-10-07T12:52:05.655735Z",
+        "createTime": "2026-10-07T12:52:05.655735Z"
+      }
+    }
+  ]
+}

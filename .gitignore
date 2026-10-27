@@ -1,0 +1,7 @@
+token.json
+credentials.json
+codesecretclient_health.txt
+footbar_tokens.txt
+**/token.json
+**/credentials.json
+**/*tokens*.txt
